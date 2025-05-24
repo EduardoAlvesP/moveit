@@ -1,10 +1,6 @@
-# 🏃‍♂ Move.it
+# Move.it
 
 **Move.it** é uma aplicação web gamificada de produtividade baseada na técnica Pomodoro. Após cada ciclo de foco, o usuário recebe um desafio de atividade física ou ergonômica simples, incentivando pausas saudáveis durante o trabalho ou estudo.
-
-## 📸 Demonstração
-
-> *Adicione aqui um print do app ou um link para o projeto online, se desejar.*
 
 ## 🚀 Tecnologias
 
